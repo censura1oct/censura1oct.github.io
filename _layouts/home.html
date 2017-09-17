@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   {{ content }}
 
   {% assign post = site.posts.first %}
@@ -13,8 +11,4 @@ layout: default
     <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     {{ post.content }}
   </h2>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
 </div>
-~
