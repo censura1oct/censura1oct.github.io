@@ -6,8 +6,8 @@ categories: en
 ---
 The following paragraphs try to document the methods to censor online content used by the Spanish police and the main telecom operators, and alternative ways to access some domain names.
 
-Censorship has targeted official websites of Generalitat, the Catalan Governement. Non-official replicas published by citizens are still active.
-Websites hosted in Spain or domain names managed by organizations in spain have been disabled physically.
+Censorship has targeted official websites of Generalitat, the Catalan Governement. Non-official replicas published by private individuals are still active.
+Websites hosted in Spain or domain names managed by organizations in Spain have been disabled physically.
 
 The Spanish police seems not to be able to censor websites hosted abroad or with domain names managed by organizations abroad.
 
@@ -16,7 +16,7 @@ This is the most accurate information available as of September 17, 2017.
 ## referendum.cat garanties.cat
 
 This was the official website of the Referendum made for the Catalan Governement.
-It doesn't work since Guardia Civil seized the hosting provided by [CDMON (hosting)](https://blog.cdmon.com/comunicado-oficial-referendum-cat/) and [Fundació puntCAT (domain name manager)](http://fundacio.cat/ca/noticies/la-fundacio-puntcat-te-com-missio-basica-la-divulgacio-i-presencia-de-la-llengua-i-cultura).
+It doesn't work since Guardia Civil (Spanish half civilian half militarized police) seized the hosting provided by [CDMON (hosting)](https://blog.cdmon.com/comunicado-oficial-referendum-cat/) and [Fundació puntCAT (domain name manager)](http://fundacio.cat/ca/noticies/la-fundacio-puntcat-te-com-missio-basica-la-divulgacio-i-presencia-de-la-llengua-i-cultura).
 
 ## referendum.*
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Send an e-mail to Akamai, Guardia Civil provider, to inform them about a service abuse"
+title:  "Send an e-mail to Akamai, Guardia Civil's provider, to inform them about a service abuse"
 date:   2017-09-16 00:00:00 +0200
 categories: en
 ---
-Akamai is a content delivery network services provider used by Guardia Civil to display a message in the websites they seize instead of their genuine content.
+Akamai is a content delivery network services provider used by Guardia Civil (Spanish half civilian half militarized police) to display a message in the websites they seize instead of their genuine content.
 
 Probably Akamai is not aware of this service abuse.
 
