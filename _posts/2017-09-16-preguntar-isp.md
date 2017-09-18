@@ -17,6 +17,15 @@ Envia aquest correu al teu operador:
 - **Vodafone**
 comunicacioncorporativa@corp.vodafone.es. No és atenció al client, però és un correu rellevant per fer arribar queixes d’usuaris (també pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@vodafone_es%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede)).
 
+- **Orange**
+Pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@orange_es%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede).
+
+- **MasMovil**
+Pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@masmovil%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede).
+
+- **Jazztel**
+Pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@jazztel_es%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede).
+
 - **Pepephone**
 pepephone@pepephone.com (també pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@pepephone%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede)).
 
