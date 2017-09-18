@@ -2,7 +2,9 @@
 layout: post
 title:  "Preguntar a la teva companyia d’Internet per què no pots accedir al web"
 date:   2017-09-16 00:00:00 +0200
-categories: jekyll update
+categories: ca
+redirect_from: "/jekyll/update/2017/09/16/preguntar-isp.html"
+
 ---
 Envia aquest correu al teu operador:
 

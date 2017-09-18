@@ -2,7 +2,8 @@
 layout: post
 title:  "Accedir i guardar còpies de la informació censurada"
 date:   2017-09-16 00:00:00 +0200
-categories: jekyll update
+categories: ca
+redirect_from: "/jekyll/update/2017/09/16/copies-locals.html"
 ---
 Pots baixar-te una còpia del web del Referèndum a través del repositori de GitHub [GrenderG/referendum_cat_mirror](https://github.com/GrenderG/referendum_cat_mirror) (clonant-lo a mitjançant un [arxiu ZIP](https://github.com/GrenderG/referendum_cat_mirror/archive/master.zip)).
 
