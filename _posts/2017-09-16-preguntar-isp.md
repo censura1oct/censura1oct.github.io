@@ -26,6 +26,9 @@ Pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@masm
 - **Jazztel**
 Pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@jazztel_es%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede).
 
+- **SomConnexió**
+Pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@somConnexio%20Per%20qu%C3%A8%20no%20puc%20accedir%20a%20webs%20del%20refer%C3%A8ndum%20des%20de%20la%20vostra%20connexi%C3%B3?%20Amb%20altres%20companyies%20es%20pot).
+
 - **Pepephone**
 pepephone@pepephone.com (també pots [dir-los-ho per Twitter](https://twitter.com/intent/tweet?text=Hola%20@pepephone%20%C2%BFpor%20qu%C3%A9%20no%20puedo%20acceder%20a%20ref1oct.eu?%20Desde%20otras%20compa%C3%B1%C3%ADas%20s%C3%AD%20se%20puede)).
 
