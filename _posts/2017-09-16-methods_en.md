@@ -72,7 +72,9 @@ Actions Movistar is taking:
 
 1. For plain HTTP connections: they check hostname and IPs
 2. For HTTPS (SSL/TLS), they look up the field SNI (unencrypted hostname in the TLS message) and the IPs.
-3. Screenshot of a TLS package with Wireshark, where you can see the SNI field
+3. Capturing a TLS package with Wireshark, where you can see the SNI field:
+![Field SNI of a TLS package, Wireshark](/media/movistar-wireshark-mitm.png "movistar wireshark mitm")
+
 4. They use some sort of regular expression:
   - ref1oct.eu doesn't work
   - www.ref1oct.eu doesn't work
@@ -132,6 +134,9 @@ Content injected by Movistar with a 403 response:
 ```
 
 This code redirects to [http://paginaintervenida.edgesuite.net](http://paginaintervenida.edgesuite.net) (hostead in Akamai), which transfers 497.7 KB (despite the fact that it only displays an image of 83.96 KB).
+
+![Traffic in a censored webite](/media/pagina-intervenida-gc-inspector.png "Traffic in a censored website")
+
 
 ## Learn more
 
