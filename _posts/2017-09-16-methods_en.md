@@ -68,6 +68,8 @@ They are doing *DNS spoofing*. The client's panel has some personal settings tha
 
 The most complex implementation. They are not doing *DNS spoofing*. Instead, they are inspecting user's traffic looking for a pair of IP address and server name of ref1oct.eu (both elements -- one isn't enough to apply the filter).
 
+The paper [Efficiently bypassing SNI-based HTTPS filtering](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7140423&isnumber=7140257) (W. M. Shbair, T. Cholez, A. Goichot and I. Chrisment) explains part of the technique applied by Movistar.
+
 Actions Movistar is taking:
 
 1. For plain HTTP connections: they check hostname and IPs
